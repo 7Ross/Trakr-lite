@@ -1,10 +1,10 @@
 # Trakr: Fitness and Nutritional Calculator
 ## Current Stack (M.E.R.N) + Python
-*Mongo DB
-*ExpressJS
-*ReactJs
-*NodeJs
-*Python (For AI)
+* Mongo DB
+* ExpressJS
+* ReactJs
+* NodeJs
+* Python (For AI)
 
 ## Purpose
 This is a web app designed for the users to do the following...
