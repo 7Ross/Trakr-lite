@@ -1,5 +1,8 @@
-# Trakr: Fitness and Nutritional Calculator
+# Fortima: Fitness and Nutritional Calculator. Lite Version!
 ## Current Stack (Undecided)
+* HTML/Tailwind CSS
+* PostgreSQL
+* 
 
 
 ## Purpose
@@ -12,7 +15,6 @@ This is a web app designed for the users to do the following...
   * Fat loss plans
 * Meal reccommendations
    * Powered by AI
-
 * Workout reccomendations
   * Based on goals
   * Powered by AI
