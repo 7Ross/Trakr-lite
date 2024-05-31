@@ -1,4 +1,4 @@
-# Fortima: Fitness and Nutritional Calculator. Lite Version!
+# Fortima: Fitness and Nutritional Calculator
 
 ## Purpose
 This is a web app designed for the users to do the following...
